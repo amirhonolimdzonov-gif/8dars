@@ -1,0 +1,117 @@
+.cards{
+    background: #995DB5;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 5px;
+    border-radius: 5px;
+}
+.cards2{
+    background: #995DB5;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    border-radius: 5px;
+}
+.cards3{
+    background: #995DB5;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 5px;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    align-content: start;
+}
+.card{
+    background: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0 8px;
+    border-radius: 5px;
+}
+.div1{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0 8px;
+    border-radius: 5px;
+}
+.div2{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0  8px;
+    border-radius: 5px;
+}
+.spase{
+    display: flex;
+    justify-content: space-between;
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    gap: 5px;
+    border-radius: 5px;
+}
+.spases{
+        background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0  8px;
+    border-radius: 5px;
+}
+.father{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.div3{
+  background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0  8px;
+    border-radius: 5px;
+}
+.div4{
+      background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0  8px;
+    border-radius: 5px;
+}
+.div{
+      background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0  8px;
+    border-radius: 5px;
+}
+.spasesa{
+      background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px 0 0  8px;
+    border-radius: 5px;
+}
+.cards4{
+    display: flex;
+    justify-content: flex-start;
+     background: #995DB5;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 5px;
+    border-radius: 5px;
+}
+.cards5{
+     display: flex;
+    justify-content: flex-end;
+     background: #995DB5;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 5px;
+    border-radius: 5px;
+}
